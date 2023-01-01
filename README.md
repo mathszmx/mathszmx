@@ -1,2 +1,2 @@
-# mathsz
+# Hy there
 my readme
