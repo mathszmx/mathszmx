@@ -36,9 +36,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
-<div align="center">
+### 🐍 Snake eating my contributions graph
 
-  ![Snake animation](https://raw.githubusercontent.com/mathszmx/mathszmx/output/github-snake-dark.svg)
+![Snake animation](https://github.com/mathszmx/mathszmx/blob/output/dist/github-contribution-grid-snake.svg)
 
-</div>
 
